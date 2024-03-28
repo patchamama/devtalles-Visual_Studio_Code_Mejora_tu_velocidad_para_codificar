@@ -4,27 +4,31 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
 
 # ShortCuts
 
+## Terminal
+
+    Ctrl + r Search in the history
+    
 ## Basic Editing
 
-    Ctrl + x cut line
-    Ctrl + c copy line
+    Ctrl + x Cut line
+    Ctrl + c Copy line
     Alt + Up or Down Move line up / down
-    Shift + Alt + Up or Down copy line up / down
+    Shift + Alt + Up or Down Copy line up / down
     Ctrl + Shift + k Delete line
     Enter Insert line below
     Ctrl + Shift + Enter Insert line above
-    Ctrl + f find
-    Ctrl + h replace
-    Ctrl + / toggle line comment
-    Shift + Alt + a toggle block comment
-    Alt + z toggle word wrap
-    Alt + Mouse click select multiple line individually
+    Ctrl + f Find
+    Ctrl + h Replace
+    Ctrl + / Toggle line comment
+    Shift + Alt + a Toggle block comment
+    Alt + z Toggle word wrap
+    Alt + Mouse click Select multiple line individually
     Tab Ident line
     Shift + tab Ident back the line
 
 ## Navigation
 
-    Ctrl + Shift + ` open new terminal
+    Ctrl + Shift + ` Open new terminal
     Ctrl + Shift + m Open Problem Panel
     Ctrl + P Go to File
 
@@ -37,3 +41,5 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
     Ctrl + Shift + d Show Debug
     Ctrl + Shift + u Show output panel
     Ctrl + Shift + g Show source control
+
+    
