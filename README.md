@@ -4,10 +4,15 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
 
 # ShortCuts
 
+- [Atajos en Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [Atajos en Mac OSX](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+- [Atajos en Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+- [Tips and Tricks - Oficial](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+
 ## Terminal
 
     Ctrl + r Search in the history
-    
+
 ## Basic Editing
 
     Ctrl + x Cut line
@@ -41,5 +46,3 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
     Ctrl + Shift + d Show Debug
     Ctrl + Shift + u Show output panel
     Ctrl + Shift + g Show source control
-
-    
