@@ -9,6 +9,30 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
 - [Atajos en Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 - [Tips and Tricks - Oficial](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
+## Sección 2: Ediciones y tips básicos
+
+- Movimientos de líneas
+
+*        ⌥ ↓ / ⌥ ↑ o Alt + ↑ / ↓
+*
+
+- Ordernar líneas Asc o Desc
+
+*        Seleccionar las líneas > Crl P >  Sort lines Asc
+
+- Comentar un bloque de código
+
+*        ⌘ / o  Ctrl + \
+*        ⇧ ⌥ A o
+*
+*        Ctrl + \
+*        Shift + Alt + A
+
+- Crear un archivo a partir de un enlace <a href="enlace-aquí"></a>
+
+*        ⌥ click derecho
+*        Ctrl + click derecho
+
 ## Terminal
 
     Ctrl + r Search in the history
