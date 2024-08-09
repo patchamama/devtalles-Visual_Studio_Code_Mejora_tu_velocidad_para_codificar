@@ -125,7 +125,11 @@ y tecleamos: `p>li>ul.text-center`
 
 ## Sección 3: Multi Cursores y edición rápida
 
----
+- Clonar líneas
+
+*        ⇧ ⌥ (Arrow Down | Up )
+*        Shift + Alt + (Arrow Down | Up)
+* ---
 
 ## Terminal
 
