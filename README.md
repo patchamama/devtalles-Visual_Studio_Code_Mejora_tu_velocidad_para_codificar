@@ -57,6 +57,11 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
 - ⌘ + mouse sobre texto (nombre de función o tipo)
 - Ctrl + mouse sobre texto
 
+7.  Borrar multilíneas seleccionadas que contienen una misma palabra
+    //_ Seleccionar todas las ocurrencias de la selección
+    //_ ⇧ ⌘ L
+    //\* Ctrl + Shift + L
+
 ## Terminal
 
     Ctrl + r Search in the history
