@@ -123,6 +123,8 @@ y tecleamos: `p>li>ul.text-center`
 -          Tab
 -          Tab + Shift
 
+## Sección 3: Multi Cursores y edición rápida
+
 ---
 
 ## Terminal
