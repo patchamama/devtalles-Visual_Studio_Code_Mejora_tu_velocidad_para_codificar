@@ -80,6 +80,30 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
 -        ⌃ `
 -        Ctrl + `
 
+11. Utilizar emmet wrap
+
+-        Crear atajo (shortcut) para el mismo
+-        ⇧ ⌘ P
+-        Ctrl + SHIFT + P
+  convertir:  
+   node --version
+  en esto:
+
+```html
+<p>
+  <li>
+    <ul class="text-center">
+      node --version
+    </ul>
+  </li>
+</p>
+```
+
+Presionamos nos posicionamos frente a `node --version` y después `⇧ ⌘ P` y después seleccionamos `wrap with abreviation`
+y tecleamos: `p>li>ul.text-center`
+
+---
+
 ## Terminal
 
     Ctrl + r Search in the history
