@@ -33,6 +33,24 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
 *        ⌥ click derecho
 *        Ctrl + click derecho
 
+- Cerrar un tab
+
+* ⌘ w
+* Ctrl + w
+
+- Volver a abrir tab cerrado
+
+* ⌘ ⇧ t
+* Ctrl + Shift + t
+
+- Ir y ojear definiciones (funciones)
+
+*        Ojear definición   ⌥ F12
+*        Ir a la definición F12
+*
+*        Ojear definición   Alt + F12
+*        Ir a la definición F12
+
 ## Terminal
 
     Ctrl + r Search in the history
