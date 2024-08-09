@@ -58,21 +58,27 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
 - Ctrl + mouse sobre texto
 
 7.  Borrar multilíneas seleccionadas que contienen una misma palabra
-    //_ Seleccionar todas las ocurrencias de la selección
-    //_ ⇧ ⌘ L
-    //\* Ctrl + Shift + L
+
+-         Seleccionar todas las ocurrencias de la selección
+-         ⇧ ⌘ L
+  Ctrl + Shift + L
 
 8.  Deshacer y rehacer el código
-    //_ ⌘ Z
-    //_ ⌘ ⇧ Z
-    //_ Ctrl +Z
-    //_ Ctrl + Shift + Z
-    //\*
+
+-         ⌘ Z
+-         ⌘ ⇧ Z
+-         Ctrl +Z
+-         Ctrl + Shift + Z
 
 - Modo Zen (zen mode)
-  //_ ⌘ K (suelta y) Z
-  //_ Ctrl + K (suelta y) Z
-  //\_ Ctrl > P > zen mode
+-         ⌘ K (suelta y) Z
+-         Ctrl + K (suelta y) Z
+-          Ctrl > P > zen mode
+
+10. Ocultar-Mostrar terminal
+
+-        ⌃ `
+-        Ctrl + `
 
 ## Terminal
 
