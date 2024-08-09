@@ -114,6 +114,11 @@ y tecleamos: `p>li>ul.text-center`
 -        Ctrl + Shift + T    Reabrir anterior
 -        Ctrl + TAB          Cambiar de tab
 
+- Buscar un archivo desde el command pallete
+
+-        ⌘ P (poner nombre del archivo a buscar)
+-        Ctrl + P
+
 ---
 
 ## Terminal
