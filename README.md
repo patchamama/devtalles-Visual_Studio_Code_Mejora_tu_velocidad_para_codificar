@@ -119,6 +119,10 @@ y tecleamos: `p>li>ul.text-center`
 -        ⌘ P (poner nombre del archivo a buscar)
 -        Ctrl + P
 
+- Tabulaciones (mover selección o línea un tab a la derecha o quitarlo)
+-          Tab
+-          Tab + Shift
+
 ---
 
 ## Terminal
