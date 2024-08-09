@@ -11,45 +11,51 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
 
 ## Sección 2: Ediciones y tips básicos
 
-- Movimientos de líneas
+1.  Movimientos de líneas
 
-*        ⌥ ↓ / ⌥ ↑ o Alt + ↑ / ↓
-*
+-        ⌥ ↓ / ⌥ ↑ o Alt + ↑ / ↓
+-
 
-- Ordernar líneas Asc o Desc
+2.  Ordernar líneas Asc o Desc
 
-*        Seleccionar las líneas > Crl P >  Sort lines Asc
+-        Seleccionar las líneas > Crl P >  Sort lines Asc
 
-- Comentar un bloque de código
+4.  Comentar un bloque de código
 
-*        ⌘ / o  Ctrl + \
-*        ⇧ ⌥ A o
-*
-*        Ctrl + \
-*        Shift + Alt + A
+-        ⌘ / o  Ctrl + \
+-        ⇧ ⌥ A o
+-
+-        Ctrl + \
+-        Shift + Alt + A
 
-- Crear un archivo a partir de un enlace <a href="enlace-aquí"></a>
+5.  Crear un archivo a partir de un enlace <a href="enlace-aquí"></a>
 
-*        ⌥ click derecho
-*        Ctrl + click derecho
+-        ⌥ click derecho
+-        Ctrl + click derecho
 
-- Cerrar un tab
+* Cerrar un tab
 
-* ⌘ w
-* Ctrl + w
+- ⌘ w
+- Ctrl + w
 
-- Volver a abrir tab cerrado
+* Volver a abrir tab cerrado
 
-* ⌘ ⇧ t
-* Ctrl + Shift + t
+- ⌘ ⇧ t
+- Ctrl + Shift + t
 
-- Ir y ojear definiciones (funciones)
+1.  Ir y ojear definiciones (funciones)
 
-*        Ojear definición   ⌥ F12
-*        Ir a la definición F12
-*
-*        Ojear definición   Alt + F12
-*        Ir a la definición F12
+-        Ojear definición   ⌥ F12
+-        Ir a la definición F12
+-
+-        Ojear definición   Alt + F12
+-        Ir a la definición F12
+-
+
+* Abrir una definición (función o tipo)
+
+- ⌘ + mouse sobre texto (nombre de función o tipo)
+- Ctrl + mouse sobre texto
 
 ## Terminal
 
