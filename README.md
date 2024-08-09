@@ -62,6 +62,13 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
     //_ ⇧ ⌘ L
     //\* Ctrl + Shift + L
 
+8.  Deshacer y rehacer el código
+    //_ ⌘ Z
+    //_ ⌘ ⇧ Z
+    //_ Ctrl +Z
+    //_ Ctrl + Shift + Z
+    //\*
+
 ## Terminal
 
     Ctrl + r Search in the history
