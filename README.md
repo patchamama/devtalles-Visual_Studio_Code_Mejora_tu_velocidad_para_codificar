@@ -69,6 +69,11 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
     //_ Ctrl + Shift + Z
     //\*
 
+- Modo Zen (zen mode)
+  //_ ⌘ K (suelta y) Z
+  //_ Ctrl + K (suelta y) Z
+  //\_ Ctrl > P > zen mode
+
 ## Terminal
 
     Ctrl + r Search in the history
