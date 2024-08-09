@@ -129,7 +129,14 @@ y tecleamos: `p>li>ul.text-center`
 
 *        ⇧ ⌥ (Arrow Down | Up )
 *        Shift + Alt + (Arrow Down | Up)
-* ---
+*
+
+- Revisar shortcuts
+
+*        ⌘ K ⌘ S
+*        Ctrl + K Ctrl + S
+
+---
 
 ## Terminal
 
