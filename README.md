@@ -102,6 +102,18 @@ Fuente del curso: https://cursos.devtalles.com/courses/take/visual-studio-code/l
 Presionamos nos posicionamos frente a `node --version` y después `⇧ ⌘ P` y después seleccionamos `wrap with abreviation`
 y tecleamos: `p>li>ul.text-center`
 
+12. Manejo de tabs: Abrir, reabrir, cerrar tabs, cambiar de tab
+
+-        ⌘ W      Cerrar tab  / Cerrar aplicación
+-        ⌘ K ⌘ W  Cerrar todas
+-        ⇧ ⌘ T    Reabrir anterior
+-        ⌃ TAB    Cambiar de tab
+-
+-        Ctrl + W            Cerrar tab
+-        Ctrl + K  Ctrl + W  Cerrar todas
+-        Ctrl + Shift + T    Reabrir anterior
+-        Ctrl + TAB          Cambiar de tab
+
 ---
 
 ## Terminal
